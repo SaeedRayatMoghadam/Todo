@@ -1,0 +1,5 @@
+body {
+    background: linear-gradient(90deg, rgba(0,0,0,.6) 0%, rgba(0,0,0,.8) 100%),url('../images/magic_3-wallpaper-1920x1080.jpg') no-repeat;
+    background-size: cover !important;
+    font-family: cursive !important;
+}
